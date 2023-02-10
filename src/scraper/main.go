@@ -24,8 +24,8 @@ var CENTER_NAMES = []string{
 	"MSC",
 	"LIN",
 	"SRC",
-	// "IOE",
-	// "YSC" seems nobody cares,
+	"IOE",
+	"YSC"
 }
 
 var FORM_TYPES = []string{
